@@ -17,7 +17,7 @@ This repository is configured to be served via GitHub Pages. To enable:
 3. Select source branch (usually `main` or `master`)
 4. Save
 
-The site will be available at: `https://[username].github.io/discord-bot-legal/`
+The site will be available at: `https://petronijevic97.github.io/discord-bot-legal/`
 
 ## License
 
